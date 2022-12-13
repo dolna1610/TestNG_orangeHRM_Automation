@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunner.LoginTestRunner" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-13T09:34:51" hostname="DESKTOP-9OQ3O6E" time="73.502">
+  <properties/>
+  <testcase name="doLoginWithWrongCreds" classname="testrunner.LoginTestRunner" time="57.734"/>
+  <testcase name="doLogin" classname="testrunner.LoginTestRunner" time="2.954"/>
+  <testcase name="isProfileImageExists" classname="testrunner.LoginTestRunner" time="4.356"/>
+  <testcase name="selectEmploymentStatus" classname="testrunner.LoginTestRunner" time="6.744"/>
+  <testcase name="listEmployee" classname="testrunner.LoginTestRunner" time="1.146"/>
+  <system-out><![CDATA[Full-Time Contract
+Full-Time Contract
+Full-Time Contract
+Full-Time Contract
+Full-Time Contract
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
